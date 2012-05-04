@@ -31,13 +31,13 @@ current.atoi("1234"); // 1234
 # NPM INSTALL
 
 ``` bash
-$ npm install node-ffi
+$ npm install git://github.com/ip1981/node-ffi.git
 ```
 
 # SOURCE INSTALL / MANUAL COMPILATION
 
 ``` bash
-$ git clone git://github.com/rbranson/node-ffi.git
+$ git clone git://github.com/ip1981/node-ffi.git
 $ cd node-ffi
 $ node-waf configure build
 ```
