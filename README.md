@@ -24,7 +24,8 @@ current.atoi("1234"); // 1234
 # REQUIREMENTS
 
  * Linux, OS X, Windows, or Solaris.
- * [`libffi`](http://sourceware.org/libffi/)
+ * A Portable Foreign Function Interface Library - [libffi](http://sourceware.org/libffi/)
+ * [pkg-config](http://www.freedesktop.org/wiki/Software/pkg-config)
  * The current version is tested to run on node 0.6.x.
 
 # NPM INSTALL
